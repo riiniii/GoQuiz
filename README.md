@@ -6,13 +6,11 @@ Created: Apr 07, 2020 1:25 AM
 
 A simple application to get to learn golang a little more! This was my first time using Golang, and wow is it so different than what I'm used to (Javascript/React)!
 
-The only similarities I've seen so far are closures. Everything else has been quite different. From the way we initialize variables, leave out the curly braces in if/else, and the for statements. The switch statement is now a 'select' statement now. Importing packages and setting up the small application was also quite different from javascript. Geez we don't really have classes either! We use structs and slices. There are no more convenient functional programming tools like javascript's .map, or .filter anymore.  Perhaps most importantly, Golang allows us to use go routines and channels. These are all ideas I am still trying to wrap my head around! 
+The only mild similarities I've seen so far are closures. Everything else has been quite different. From the way we initialize variables, leave out the curly braces in if/else, to the for statements. We have a select statement that acts like switch, except that they are for goroutines! Importing packages and setting up the small application was also quite different from javascript. Geez we don't really have classes either! We use structs and slices. There are no more convenient functional programming tools like javascript's .map, or .filter anymore.Perhaps most importantly, Golang allows us to use go routines and channels. These are all ideas I am still trying to wrap my head around! There's a ton more new things to learn, but those are just some random tidbits off the top of my head. 
 
 I wanted to learn more about golang because I wanted to challenge myself to learn something new and to do something more "backend," to see how I like it!
 
 # TIL
-
-## Concurrency
 
 ## Goroutines
 
